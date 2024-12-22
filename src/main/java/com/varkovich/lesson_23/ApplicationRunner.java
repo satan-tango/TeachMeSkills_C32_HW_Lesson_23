@@ -31,7 +31,6 @@ public class ApplicationRunner {
 
     public static void main(String[] args) {
         ObjectMapper mapper = new ObjectMapper();
-        ;
         JAXBContext context;
         DocumentBuilderFactory factory;
 
